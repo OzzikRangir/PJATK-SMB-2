@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProductListNotification</string>
+    <string name="hello_world">Hello Square World!</string>
+    <string name="added_product_text">Added product to list</string>
+</resources>
